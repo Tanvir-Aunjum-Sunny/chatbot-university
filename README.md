@@ -13,7 +13,7 @@ Now it's your turn. Feel free to make any contributions :)
 
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
-- [NLP and NLU](#nlp-and-nlu)
+- [NLP/NLU](#NLP/NLU)
 - [Stories and experiences](#stories-and-experiences)
 - [Resources and Tutorials](#resources-and-tutorials)
 - [Communities](#communities)
