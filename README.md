@@ -25,7 +25,7 @@ Now it's your turn. Feel free to make any contributions :)
 This site should become an overview to not get lost in the huge topic of chatbots and their rapid evolving technologies.
 
 
-## NLP/NLU
+## NLP and NLU
 
 - [API.ai](https://api.ai/)
 - [wit.ai](https://wit.ai/)
