@@ -15,14 +15,14 @@ Feel free to make any contributions to improve it :)
 - [Why use it?](#why-use-it)
 - [NLP/NLU](#nlp-nlu)
 - [Stories and experiences](#stories-and-experiences)
-- [Resources](#resources)
+- [Resources and Tutorials](#resources)
 - [Communities](#communities)
 - [Follow me](#follow-me)
 
 ---
 
 ## Why use it?
-
+This site should become an overview to not get lost in the huge topic of chatbots and their rapid evolving technologies.
 
 
 ## NLP/NLU
