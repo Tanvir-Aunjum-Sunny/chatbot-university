@@ -5,7 +5,7 @@
 The main goal is to collect the most interesting learning sources for building and desiging chatbots.
 I would also like to include a lot of samples, starter-kits and hands-on to make a jump-start into building a bot as easy as possible.
 
-Feel free to make any contributions to improve it :)
+Now it's your turn. Feel free to make any contributions :)
 
 ---
 
@@ -13,9 +13,9 @@ Feel free to make any contributions to improve it :)
 
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
-- [NLP/NLU](#nlp-nlu)
+- [NLP/NLU](#nlp/nlu)
 - [Stories and experiences](#stories-and-experiences)
-- [Resources and Tutorials](#resources)
+- [Resources and Tutorials](#resources-and-tutorials)
 - [Communities](#communities)
 - [Follow me](#follow-me)
 
@@ -40,7 +40,7 @@ Share your story!
 - [Nine key learnings after building the first Swiss retail chatbot](https://medium.com/valora-lab/nine-key-learnings-after-building-the-first-swiss-retail-chatbot-56a4cfd2291#.enjmgqdb0)
 
 
-## Resources / Tutorials
+## Resources and Tutorials
 
 - [The Beginners Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.v365j1gvu)
 
