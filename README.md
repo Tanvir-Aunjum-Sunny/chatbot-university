@@ -13,7 +13,7 @@ Now it's your turn. Feel free to make any contributions :)
 
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
-- [NLP/NLU](#NLP/NLU)
+- [NLP and NLU](#nlp-and-nlu)
 - [Stories and experiences](#stories-and-experiences)
 - [Resources and Tutorials](#resources-and-tutorials)
 - [Communities](#communities)
@@ -69,7 +69,6 @@ Share your story!
     - [UX for Bots](https://www.facebook.com/groups/uxforbots/)
 
 - [Chatbots Magazine](https://chatbotsmagazine.com)
-- [AI-Chatbots Moroccan Community](https://www.linkedin.com/groups/8586212)
 
 
 ## Follow me
