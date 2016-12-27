@@ -47,11 +47,16 @@ Share your story!
 - Facebook Messenger Platform
     - [Offical Doc](https://developers.facebook.com/docs/messenger-platform)
     - [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
+    - [Facebook Chatbot using Gupshup tutorial](https://github.com/Raniazy/messenger-facebook-bot-gupshup)
     
 - Telegram
     - [An introduction for developers](https://core.telegram.org/bots)
     
-    
+- Slack 
+    - [Build a slack chatbot with Botkit](https://github.com/Raniazy/tuto_slack_botkit_chatbot)    
+
+- Botkit 
+    - [Botkit - Building Blocks for Building Bots](https://github.com/howdyai/botkit)
 
 
 ## Communities
@@ -64,7 +69,7 @@ Share your story!
     - [UX for Bots](https://www.facebook.com/groups/uxforbots/)
 
 - [Chatbots Magazine](https://chatbotsmagazine.com)
-
+- [AI-Chatbots Moroccan Community](https://www.linkedin.com/groups/8586212)
 
 
 ## Follow me
