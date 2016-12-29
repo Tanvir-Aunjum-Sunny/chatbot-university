@@ -16,6 +16,8 @@ Now it's your turn. Feel free to make any contributions :)
 - [NLP and NLU](#nlp-and-nlu)
 - [Stories and experiences](#stories-and-experiences)
 - [Resources and Tutorials](#resources-and-tutorials)
+- [Conversation Design] (#conversation-design)
+- [Analytics] (#analytics)
 - [Communities](#communities)
 - [Follow me](#follow-me)
 
@@ -60,6 +62,12 @@ Share your story!
 - Botkit 
     - [Botkit - Building Blocks for Building Bots](https://github.com/howdyai/botkit)
 
+
+## Conversation Design
+tbd - tools for mocking/bootstrapping a conversation before building the bot
+
+## Analytics
+tbd - tools for bot analytics
 
 ## Communities
 - Quora
