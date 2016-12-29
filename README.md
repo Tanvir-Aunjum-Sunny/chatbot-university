@@ -67,7 +67,7 @@ Share your story!
 
 ## Analytics
 
-- [botanalytics]https://botanalytics.co)
+- [botanalytics](https://botanalytics.co)
 
 ## Communities
 - Quora
