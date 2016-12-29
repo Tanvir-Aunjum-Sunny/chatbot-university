@@ -19,7 +19,6 @@ Now it's your turn. Feel free to make any contributions :)
 - [Conversation Design] (#conversation-design)
 - [Analytics] (#analytics)
 - [Communities](#communities)
-- [Follow me](#follow-me)
 
 ---
 
