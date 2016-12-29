@@ -65,6 +65,8 @@ Share your story!
 
 ## Conversation Design
 tbd - tools for mocking/bootstrapping a conversation before building the bot
+- [8 principles of bot design](https://medium.com/intercom-inside/8-principles-of-bot-design-51f03df1d84c#.dnpkiyvhi)
+
 
 ## Analytics
 tbd - tools for bot analytics
