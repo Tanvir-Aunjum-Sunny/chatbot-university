@@ -45,7 +45,7 @@ Share your story!
 - [Bot Tutorials] (https://tutorials.botsfloor.com/)
 
 - Facebook Messenger Platform
-    - [Offical Doc](https://developers.facebook.com/docs/messenger-platform)
+    - [Official documentation](https://developers.facebook.com/docs/messenger-platform)
     - [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
     - [Facebook Chatbot using Gupshup tutorial](https://github.com/Raniazy/messenger-facebook-bot-gupshup)
     
@@ -54,6 +54,10 @@ Share your story!
     
 - Slack 
     - [Build a slack chatbot with Botkit](https://github.com/Raniazy/tuto_slack_botkit_chatbot)    
+    
+ - Microsoft Bot Framework 
+    - [Official documentation](https://docs.botframework.com/en-us/faq/)    
+    - [From FAQ to Bot in minutes](https://qnamaker.ai/)    
 
 - Botkit 
     - [Botkit - Building Blocks for Building Bots](https://github.com/howdyai/botkit)
