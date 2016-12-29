@@ -55,7 +55,7 @@ Share your story!
 - Slack 
     - [Build a slack chatbot with Botkit](https://github.com/Raniazy/tuto_slack_botkit_chatbot)    
     
- - Microsoft Bot Framework 
+- Microsoft Bot Framework 
     - [Official documentation](https://docs.botframework.com/en-us/faq/)    
     - [From FAQ to Bot in minutes](https://qnamaker.ai/)    
 
