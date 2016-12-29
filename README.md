@@ -4,6 +4,7 @@
 
 The main goal is to collect the most interesting learning sources for building and desiging chatbots.
 I would also like to include a lot of samples, starter-kits and hands-on to make a jump-start into building a bot as easy as possible.
+This site should become an overview to not get lost in the huge topic of chatbots and their rapid evolving technologies.
 
 Now it's your turn. Feel free to make any contributions :)
 
@@ -12,7 +13,6 @@ Now it's your turn. Feel free to make any contributions :)
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
 - [NLP and NLU](#nlp-and-nlu)
 - [Stories and experiences](#stories-and-experiences)
 - [Resources and Tutorials](#resources-and-tutorials)
@@ -22,10 +22,6 @@ Now it's your turn. Feel free to make any contributions :)
 - [Follow me](#follow-me)
 
 ---
-
-## Why use it?
-This site should become an overview to not get lost in the huge topic of chatbots and their rapid evolving technologies.
-
 
 ## NLP and NLU
 
@@ -82,7 +78,3 @@ tbd - tools for bot analytics
 
 - [Chatbots Magazine](https://chatbotsmagazine.com)
 
-
-## Follow me
-
-- Twitter: [@krebs_adrian](https://twitter.com/krebs_adrian)
