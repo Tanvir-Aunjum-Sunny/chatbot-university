@@ -71,6 +71,9 @@ Share your story!
 ## Analytics
 
 - [botanalytics](https://botanalytics.co)
+- [Dashbot.io](https://www.dashbot.io)
+- [Bot-Metrics](https://bot-metrics.com)
+- [Botlytics](http://www.botlytics.co)
 
 ## Communities
 - Quora
