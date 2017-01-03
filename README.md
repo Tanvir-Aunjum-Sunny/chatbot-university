@@ -27,6 +27,7 @@ Now it's your turn. Feel free to make any contributions :)
 - [API.ai](https://api.ai/)
 - [wit.ai](https://wit.ai/)
 - [rasa NLU](https://github.com/golastmile/rasa_nlu)
+- [ChatterBot - conversational dialog engine](https://github.com/gunthercox/ChatterBot)
 
 
 ## Stories and experiences
