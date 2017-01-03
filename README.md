@@ -50,6 +50,7 @@ Share your story!
     
 - Telegram
     - [An introduction for developers](https://core.telegram.org/bots)
+    - [Youtube Telegram Bot Tutorial PHP](https://www.youtube.com/watch?v=hJBYojK7DO4)
     
 - Slack 
     - [Build a slack chatbot with Botkit](https://github.com/Raniazy/tuto_slack_botkit_chatbot)    
