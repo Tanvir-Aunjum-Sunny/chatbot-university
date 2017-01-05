@@ -2,7 +2,7 @@
 
 ## What is it?
 
-The main goal is to collect the most interesting learning sources for building and desiging chatbots.
+The main goal is to collect the most interesting learning sources for building and designing chatbots.
 I would also like to include a lot of samples, starter-kits and hands-on to make a jump-start into building a bot as easy as possible.
 This site should become an overview to not get lost in the huge topic of chatbots and their rapid evolving technologies.
 
