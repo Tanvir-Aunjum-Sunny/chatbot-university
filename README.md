@@ -68,6 +68,7 @@ Share your story!
 
 - [8 principles of bot design](https://medium.com/intercom-inside/8-principles-of-bot-design-51f03df1d84c#.dnpkiyvhi)
 - [botsociety](https://botsociety.io/)
+- [motion.ai](https://www.motion.ai/)
 - [The Ultimate Guide to Chatbots: Why they’re disrupting UX and best practices for building](https://medium.muz.li/the-ultimate-guide-to-chatbots-why-theyre-disrupting-ux-and-best-practices-for-building-345e2150b682#.37oi81q74)
 
 
