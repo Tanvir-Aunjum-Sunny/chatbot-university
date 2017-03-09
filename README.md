@@ -63,6 +63,13 @@ Share your story!
 - Botkit 
     - [Botkit - Building Blocks for Building Bots](https://github.com/howdyai/botkit)
 
+## Bots Frameworks
+
+- [Microsoft Bot Framework](https://dev.botframework.com/)
+- [Chatfuel](http://chatfuel.com/)
+- [Botkit](http://howdy.ai/)
+- [Facebook Bot Engine](http://wit.ai/)
+- [Botsify](http://botsify.com/)
 
 ## Conversation Design
 
@@ -70,7 +77,6 @@ Share your story!
 - [botsociety](https://botsociety.io/)
 - [motion.ai](https://www.motion.ai/)
 - [The Ultimate Guide to Chatbots: Why they’re disrupting UX and best practices for building](https://medium.muz.li/the-ultimate-guide-to-chatbots-why-theyre-disrupting-ux-and-best-practices-for-building-345e2150b682#.37oi81q74)
-
 
 ## Analytics
 
