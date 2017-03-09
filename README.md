@@ -63,14 +63,6 @@ Share your story!
 - Botkit 
     - [Botkit - Building Blocks for Building Bots](https://github.com/howdyai/botkit)
 
-## Bots Frameworks
-
-- [Microsoft Bot Framework](https://dev.botframework.com/)
-- [Chatfuel](http://chatfuel.com/)
-- [Botkit](http://howdy.ai/)
-- [Facebook Bot Engine](http://wit.ai/)
-- [Botsify](http://botsify.com/)
-
 ## Conversation Design
 
 - [8 principles of bot design](https://medium.com/intercom-inside/8-principles-of-bot-design-51f03df1d84c#.dnpkiyvhi)
