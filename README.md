@@ -16,8 +16,8 @@ Now it's your turn. Feel free to make any contributions :)
 - [NLP and NLU](#nlp-and-nlu)
 - [Stories and experiences](#stories-and-experiences)
 - [Resources and Tutorials](#resources-and-tutorials)
-- [Conversation Design] (#conversation-design)
-- [Analytics] (#analytics)
+- [Conversation Design](#conversation-design)
+- [Analytics](#analytics)
 - [Communities](#communities)
 
 ---
