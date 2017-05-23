@@ -41,8 +41,8 @@ Share your story!
 ## Resources and Tutorials
 
 - [The Beginners Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.v365j1gvu)
-- [A directory of chat bot resources & tools] (http://www.botsfloor.com/botstash/)
-- [Bot Tutorials] (https://tutorials.botsfloor.com/)
+- [A directory of chat bot resources & tools](http://www.botsfloor.com/botstash/)
+- [Bot Tutorials](https://tutorials.botsfloor.com/)
 
 - Facebook Messenger Platform
     - [Official documentation](https://developers.facebook.com/docs/messenger-platform)
